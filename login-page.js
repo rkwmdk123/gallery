@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (event) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "user" && password === "1234") {
+    if (username === "kk112" && password === "1111") {
         alert("You have successfully logged in.");
         window.location.href = "갤러리.html";
         
